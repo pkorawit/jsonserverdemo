@@ -11,4 +11,3 @@ server.use(router);
 server.listen(port, function () {
   console.log('PSU Pin json-server is running!');
 });
-
