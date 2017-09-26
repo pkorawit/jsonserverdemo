@@ -9,6 +9,6 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port, function () {
-  console.log('\x1b[PSU Pin json-server is running!');
+  console.log('PSU Pin json-server is running!');
 });
 
