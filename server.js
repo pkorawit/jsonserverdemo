@@ -7,5 +7,5 @@ const middlewares = jsonServer.defaults()
 server.use(middlewares)
 server.use(router)
 server.listen(port, function () {
-  console.log('JSON Server is running')
+  console.log('PSU Pin Server is running')
 })
