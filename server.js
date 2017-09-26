@@ -1,20 +1,14 @@
-const express = require('express')
-const app = express()
-var fakepins = require('./fakepins.js')
+var jsonServer = require('json-server');
+var server = jsonServer.create();
+var router = jsonServer.router('pins.json');
+var middlewares = jsonServer.defaults();
+var fs = require('fs');
 var port = process.env.PORT || 3000;
 
-app.get('/', function (req, res) {
-  res.send('Hello World! Express.Js')
-})
+server.use(middlewares);
+server.use(router);
 
-app.get('/pins', function (req, res) {
-    res.setHeader('Content-Type', 'application/json');
-    res.send(fakepins());
-  })
-
-app.listen(port, function () {
-  console.log('Example app listening on port 80!')
-})
-
-
+server.listen(port, function () {
+  console.log('\x1b[PSU Pin json-server is running!');
+});
 
