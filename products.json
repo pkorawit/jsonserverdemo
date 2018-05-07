@@ -1,0 +1,84 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Nutra Gold Holistic Indoor Adult",
+        "description": "Nutra Gold Holistic Indoor Adult อาหารแมวโต โฮลิสติก สำหรับแมวเลี้ยงในบ้าน ป้องกันก้อนขน (1kg)",
+        "photo": "https://tailybuddy.com/products/3409/nutragold-holistic-indoor-adult-dry-cat-food.jpeg",
+        "price": "254.00",
+        "weight":"1.2kg"
+      },
+      {
+        "id": 2,
+        "name": "Solidgold Let's Stay In, Indoor Cat Salmon",
+        "description": "Solidgold Let's Stay In, Indoor Cat Salmon อาหารเกรดโฮลิสติก สำหรับแมวเลี้ยงในบ้านสูตรแซลมอน(1.36kg)",
+        "photo": "https://tailybuddy.com/products/3409/nutragold-holistic-indoor-adult-dry-cat-food.jpeg",
+        "price": "720.00",
+        "weight":"1.36kg"
+      },
+      {
+        "id": 3,
+        "name": "IRIS ห้องน้ำญี่ปุ่น รุ่นใหญ่แบบหลุม",
+        "description": "IRIS ห้องน้ำญี่ปุ่น รุ่นใหญ่แบบหลุม เป็นส่วนตัว กันทรายฟุ้ง ฝาเป็นร่องดักทรายในตัว (สีส้ม-น้ำตาล)",
+        "photo": "https://tailybuddy.com/products/3768/P250226.jpg",
+        "price": "1590.00",
+        "weight":"2.15kg"
+      },
+      {
+        "id": 4,
+        "name": "CatH2O น้ำพุแมว",
+        "description": "CatH2O น้ำพุแมว เครื่องให้น้ำแมวอัตโนมัติ จุน้ำ 2L ฟรี! แผ่นกรอง 2 แผ่น + Dental Care",
+        "photo": "https://tailybuddy.com/products/2356/Screen%20Shot%202559-12-19%20at%2002.48.08.png",
+        "price": "1080.00",
+        "weight":"0.7kg"
+      },
+      {
+        "id": 5,
+        "name": "ของเล่นแมว วงล้อ",
+        "description": "ของเล่นแมว วงล้อ รุ่นหนูขนเฟอร์สีขาว (สีส้ม)",
+        "photo": "https://tailybuddy.com/products/3030/%e0%b8%aa%e0%b8%b5%e0%b8%aa%e0%b9%89%e0%b8%a1%e0%b8%94%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2.jpg",
+        "price": "190.00",
+        "weight":"0.3kg"
+      },
+      {
+        "id": 6,
+        "name": "ของเล่นแมวเบ็ดตกแมว",
+        "description": "ของเล่นแมวเบ็ดตกแมว ก้านไม้ รูปลูกบอล สำหรับแมว",
+        "photo": "https://tailybuddy.com/products/3650/%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b9%81%e0%b8%a1%e0%b8%a7_%e0%b9%80%e0%b8%9a%e0%b9%87%e0%b8%94_2.jpg",
+        "price": "89.00",
+        "weight":"0.17kg"
+      },
+      {
+        "id": 7,
+        "name": "คอนโดแมว รุ่น Luxury Cat 4 เสา",
+        "description": "Sale! คอนโดแมว รุ่น Luxury Cat 4เสา แข็งแรง ถอดประกอบได้ (ขนาดใหญ่) (เทาเข้มกำมะหยี่) (TL-01)",
+        "photo": "https://tailybuddy.com/products/3956/%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94%e0%b9%81%e0%b8%a1%e0%b8%a72.jpg",
+        "price": "4999.00",
+        "weight":"10.54kg"
+      },
+      {
+        "id": 8,
+        "name": "DYL ชามกันมด",
+        "description": "DYL ชามกันมด สำหรับใส่อาหารสัตว์เลี้ยง รุ่นใหม่! (สีชมพู)",
+        "photo": "https://tailybuddy.com/products/4344/%e0%b8%8a%e0%b8%b2%e0%b8%a1%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%941.jpg",
+        "price": "185.00",
+        "weight":"0.22kg"
+      },
+      {
+        "id": 9,
+        "name": "FURMINATOR กรรไกรตัดเล็บ",
+        "description": "FURMINATOR กรรไกรตัดเล็บมืออาชีพ แข็งแรงทนทาน เล็บที่ตัดจะสวยและไม่คม สำหรับสัตว์เลี้ยง",
+        "photo": "https://tailybuddy.com/products/3583/19848966_1534623316558127_1105259134_n.png",
+        "price": "515.00",
+        "weight":"0.27kg"
+      },
+      {
+        "id": 10,
+        "name": "Catit Voyageur 100 กระเป๋าใส่แมว",
+        "description": "Catit Voyageur 100 กระเป๋าใส่แมว กล่องเดินทางขึ้นเครื่อง สำหรับแมวสูงไม่เกิน 24cm หรือสุนัขพันธุ์เล็ก",
+        "photo": "https://tailybuddy.com/products/3983/1.jpg",
+        "price": "915.00",
+        "weight":"2.47kg"
+      }
+    ]
+  }
